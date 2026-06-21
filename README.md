@@ -86,30 +86,6 @@ Sales patterns showed recurring seasonal variations throughout the year.
 
 ---
 
-## Dashboard Preview
-
-_Add dashboard screenshots here._
-
----
-
-## Repository Structure
-
-```text
-automobile-sales-eda-dashboard/
-│
-├── notebooks/
-│   └── automobile_sales_analysis.ipynb
-│
-├── dashboard/
-│   └── automobile_dashboard.py
-│
-├── images/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
 ## Dataset
 
 Automobile Sales Dataset provided as part of the IBM Data Analyst Professional Certificate program.
